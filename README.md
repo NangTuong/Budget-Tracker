@@ -16,6 +16,6 @@ https://github.com/NangTuong/Budget-Tracker
 Made By: Bradley Nguyen
 
 ## Screen Shots
-![screenshot](./public/images/Screenshot%20(30).png)
-![screenshot](./public/images/Screenshot%20(31).png)
-![screenshot](./public/images/Screenshot%20(32).png)
+![screenshot](./public/images/Screenshot%20(33).png)
+![screenshot](./public/images/Screenshot%20(33).png)
+![screenshot](./public/images/Screenshot%20(34).png)
